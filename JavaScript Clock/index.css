@@ -1,0 +1,11 @@
+body {
+    background: gray;
+}
+
+.clock {
+    position: absolute;
+    font-size: 80px;
+    top: 30%;
+    left: 35%;
+    letter-spacing: 10px;
+}
